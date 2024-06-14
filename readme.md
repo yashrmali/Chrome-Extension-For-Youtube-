@@ -57,8 +57,6 @@ Listens for window focus and blur events to pause and resume the YouTube video.
 🔄 Switch to another tab. The video will automatically pause.
 ↩️ Switch back to the YouTube tab. The video will automatically resume.
 
-## 🤝 Contributing
-If you'd like to contribute, please fork the repository and use a feature branch. Pull requests are welcome.
 
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
